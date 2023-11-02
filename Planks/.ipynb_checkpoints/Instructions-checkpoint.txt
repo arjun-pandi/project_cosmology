@@ -1,1 +1,5 @@
 use... jupyter lab --notebook-dir D: ...# for change of directory in CMD inside JUPYTER LAB
+
+Notes
+Last Error in Current ipynb was dlfac was not properly included and the term lnas10^10 was not also properly included after changing the term now cosmo as properly predicting data
+Thanks...
