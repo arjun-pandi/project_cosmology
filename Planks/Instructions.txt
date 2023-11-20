@@ -3,3 +3,10 @@ use... jupyter lab --notebook-dir D: ...# for change of directory in CMD inside 
 Notes
 Last Error in Current ipynb was dlfac was not properly included and the term lnas10^10 was not also properly included after changing the term now cosmo as properly predicting data
 Thanks...
+
+python 3.9.7
+
+pip install tensorflow==2.10.0
+pip install tensorflow_probability==0.18.0
+pip install cosmopower==0.1.0
+pip install camb
