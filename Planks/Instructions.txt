@@ -6,7 +6,14 @@ Thanks...
 
 python 3.9.7
 
+python -m venv cospo
+
+cospo\scripts\activate
+
 pip install tensorflow==2.10.0
 pip install tensorflow_probability==0.18.0
 pip install cosmopower==0.1.0
 pip install camb
+
+python -m pip freeze > requirements.txt
+python -m pip install -r requirements.txt
