@@ -1,0 +1,11 @@
+chi_arr format
+
+file name = 'parmeter 1 name'_'parameter 2 Name'
+content = array([parameter[0],parameter[1],parameter[2],parameter[3],parameter[4],parameter[5],parameter_1_name,parameter_2_name,corresponding parameter's chi_sq value])
+
+plot_arr format
+
+complete array of 
+
+file name = 'parmeter 1 name'_'parameter 2 Name'
+content = [parameter 1 value, parameter 2 value, its chi sq]
