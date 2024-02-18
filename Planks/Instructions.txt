@@ -17,3 +17,7 @@ pip install camb
 
 python -m pip freeze > requirements.txt
 python -m pip install -r requirements.txt
+
+
+jupyter lab --ip 2406:7400:c2:c3a6:d850:c85f:ff66:44e6 --port 8888
+jupyter lab --ip <current ip address> --port 8888
